@@ -173,7 +173,7 @@ img {
     position: fixed;
     top: -120%;
     left: 0;
-    background-color: var(--first-color-alt);
+    background-color: var(--first-color);
     width: 100%;
     padding-block: 4rem;
     box-shadow: 0 8px 16px hsla(166, 85%, 8%, 0.3);
